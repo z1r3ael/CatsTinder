@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cats Navigation</string>
+    <string name="root_screen_title">Котики</string>
+    <string name="fav_cats_title">Любимые котики</string>
+    <string name="about_title">О приложении</string>
+    <string name="github_link"><a href="https://github.com/z1r3ael">github.com/z1r3ael</a></string>
+</resources>
