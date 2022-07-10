@@ -9,5 +9,5 @@
   - Fresco
   - Room
   - Navigation component
-
+ 
 Дополнительно добавил APK файл.
